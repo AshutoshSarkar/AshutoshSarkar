@@ -3,6 +3,7 @@
 hi 👋
 
 Ashutosh Sarkar 
+
 full-stack developer · mathura, india
 
 <details>
@@ -22,7 +23,7 @@ experience
 
 skills
 
-js · ts · react · next.js  · svelte · node  · postgres · Java · MongoDb · OAuth · Google Firebase · Ai tools[chatGpt, grok, gemini] · SQL
+js · ts · react · next.js · node  · postgres · Java · MongoDb · OAuth · Google Firebase · Ai tools[chatGpt, grok, gemini] · SQL
 
 ---
 
@@ -34,8 +35,7 @@ gla university — b.tech cse (2020 → 2024)
 
 links
 
-[landing] · [website] · [email]  
-[github] · [linkedin] · [twitter] 
+[website] · [email] · [github] · [linkedin] · [twitter] 
 
 </details>
 
