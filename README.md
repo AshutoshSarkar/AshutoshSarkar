@@ -42,8 +42,7 @@ links
 </samp>
 
 
-[landing]: https://helloashu.vercel.app/
-[website]: https://rajputhemant.dev
+[Website]: https://helloashu.vercel.app/
 [email]: mailto:winnerashu5@gmail.com
 [github]: https://github.com/AshutoshSarkar
 [linkedin]: https://www.linkedin.com/in/ashutosh-sarkar-07362322b/
